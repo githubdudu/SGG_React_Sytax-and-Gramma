@@ -1,6 +1,6 @@
 Fork from zxfjd3g/170925_react_test
 
-Content: React into -- about basic sytax and concepts
+Content: React into -- about basic syntax and concepts
 # 1. React入门
 	## 1.1. React基本认识
 	## 1.2. React基本使用
